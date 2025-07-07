@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Details.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T20:28:21.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:39:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:38:52.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:38:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T15:29:18.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "ABMClientes\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "ABMClientes\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T15:04:28.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "ABMClientes\\Models\\DbModel.cs",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.cs",
+              "RelativeToolTip": "ABMClientes\\Models\\DbModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:58:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "ABMClientes\\Models\\Clientes.cs",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\Clientes.cs",
+              "RelativeToolTip": "ABMClientes\\Models\\Clientes.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:45:31.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.edmx",
+              "RelativeDocumentMoniker": "ABMClientes\\Models\\DbModel.edmx",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.edmx [Diagram1]",
+              "RelativeToolTip": "ABMClientes\\Models\\DbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-07T13:42:06.872Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
