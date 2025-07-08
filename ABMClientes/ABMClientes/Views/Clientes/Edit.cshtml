@@ -10,7 +10,7 @@
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <h4>Clientes</h4>
         <hr />
@@ -69,9 +69,38 @@
 }
 
 <div>
-    
+
 </div>
 
 @section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#CuitField').on('blur', function () {
+                var cuit = $(this).val();
+
+                // Verificamos si el CUIT tiene la longitud correcta antes de hacer la solicitud
+                if (cuit.length == 11) {
+                    $.ajax({
+                        url: '@Url.Action("ObtenerRazonSocialPorCuit", "Clientes")',
+                        data: { cuit: cuit },
+                        type: 'GET',
+                        success: function (response) {
+                            if (response.error) {
+                                alert(response.error);
+                            } else {
+                                // Asignamos el valor de la razón social al campo correspondiente
+                                $('#RazonSocialField').val(response);
+                            }
+                        },
+                        error: function () {
+                            alert('Hubo un error al intentar obtener la razón social.');
+                        }
+                    });
+                } else {
+                    alert('El CUIT debe tener 11 dígitos.');
+                }
+            });
+        });
+    </script>
 }

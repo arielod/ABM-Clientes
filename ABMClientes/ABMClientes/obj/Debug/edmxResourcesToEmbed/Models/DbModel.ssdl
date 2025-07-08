@@ -6,7 +6,7 @@
     </Key>
     <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
     <Property Name="CUIT" Type="nvarchar" MaxLength="11" Nullable="false" />
-    <Property Name="RazonSocial" Type="nvarchar" MaxLength="1" />
+    <Property Name="RazonSocial" Type="varchar" MaxLength="100" />
     <Property Name="Telefono" Type="nvarchar" MaxLength="20" Nullable="false" />
     <Property Name="Direccion" Type="nvarchar" MaxLength="200" Nullable="false" />
     <Property Name="Activo" Type="bit" Nullable="false" />

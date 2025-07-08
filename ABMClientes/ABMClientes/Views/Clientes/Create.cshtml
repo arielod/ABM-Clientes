@@ -7,10 +7,10 @@
 <h2>Nuevo Cliente</h2>
 
 
-@using (Html.BeginForm()) 
+@using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <h4>Clientes</h4>
         <hr />
@@ -18,7 +18,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.CUIT, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.CUIT, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.CUIT, new { htmlAttributes = new { @class = "form-control", id = "CuitField" } })
                 @Html.ValidationMessageFor(model => model.CUIT, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -26,7 +26,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.RazonSocial, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.RazonSocial, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.RazonSocial, new { htmlAttributes = new { @class = "form-control",id = "RazonSocialField"} })
                 @Html.ValidationMessageFor(model => model.RazonSocial, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -51,7 +51,7 @@
             @Html.LabelFor(model => model.Activo, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
                 <div class="checkbox">
-                    @Html.EditorFor(model => model.Activo, new { htmlAttributes = new { @class = "form-control " + (Model.Activo ? "is-valid" : "is-invalid") } })
+                    @Html.EditorFor(model => model.Activo)
                     @Html.ValidationMessageFor(model => model.Activo, "", new { @class = "text-danger" })
                 </div>
             </div>
@@ -67,9 +67,38 @@
 }
 
 <div>
-    
+
 </div>
 
 @section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#CuitField').on('blur', function () {
+                var cuit = $(this).val();
+
+                // Verificamos si el CUIT tiene la longitud correcta antes de hacer la solicitud
+                if (cuit.length == 11) {
+                    $.ajax({
+                        url: '@Url.Action("ObtenerRazonSocialPorCuit", "Clientes")',
+                        data: { cuit: cuit },
+                        type: 'GET',
+                        success: function (response) {
+                            if (response.error) {
+                                alert(response.error);
+                            } else {
+                                // Asignamos el valor de la razón social al campo correspondiente
+                                $('#RazonSocialField').val(response);
+                            }
+                        },
+                        error: function () {
+                            alert('Hubo un error al intentar obtener la razón social.');
+                        }
+                    });
+                } else {
+                    alert('El CUIT debe tener 11 dígitos.');
+                }
+            });
+        });
+    </script>
 }

@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
+using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
 
@@ -113,6 +114,25 @@ namespace ABMClientes.Controllers
             catch
             {
                 return View();
+            }
+        }
+        [HttpGet]
+        public JsonResult ObtenerRazonSocialPorCuit(string cuit)
+        {
+            try
+            {
+                using (var client = new HttpClient())
+                {
+                    // Asegúrate de que la URL esté correcta y que tenga el valor del CUIT
+                    var response = client.GetStringAsync($"https://sistemaintegracomex.com.ar/Account/GetNombreByCuit?cuit={cuit}").Result;
+
+                    // Retorna la respuesta como JSON
+                    return Json(response, JsonRequestBehavior.AllowGet);
+                }
+            }
+            catch (Exception ex)
+            {
+                return Json(new { error = "No se pudo obtener la razón social." }, JsonRequestBehavior.AllowGet);
             }
         }
     }
