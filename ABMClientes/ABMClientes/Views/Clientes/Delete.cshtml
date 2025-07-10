@@ -4,11 +4,21 @@
     ViewBag.Title = "Delete";
 }
 
-<h2>Delete</h2>
+
+<h2 class="custom-title mb-4">Eliminar</h2>
+<style>
+    .custom-title {
+        color: #17a2b8; /* Color azul tipo Bootstrap */
+        font-size: 2rem; /* Tamaño de fuente grande */
+        font-weight: bold; /* Poner en negrita */
+        text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Sombra suave */
+        text-align: start; /* Centrado */
+    }
+</style>
 
 <h3>¿Estas seguro de eliminar este cliente?</h3>
 <div>
-    <h4>Clientes</h4>
+    
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -53,12 +63,13 @@
 
     </dl>
 
-    @using (Html.BeginForm()) {
+    @using (Html.BeginForm())
+    {
         @Html.AntiForgeryToken()
 
-<div class="form-actions no-color">
-    <input type="submit" value="Eliminar" class="btn btn-danger" /> |
-    @Html.ActionLink("Volver", "Index", "", new { @class = "btn btn-secondary" })
-</div>
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-danger" /> |
+            @Html.ActionLink("Volver", "Index", "", new { @class = "btn btn-secondary" })
+        </div>
     }
 </div>
