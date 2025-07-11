@@ -15,17 +15,23 @@ namespace ABMClientes.Models
 
     public partial class Clientes
     {
+        // El atributo Display cambia el nombre que se mostrará en formularios o vistas.
         [Display(Name = "#")]
         public int id { get; set; }
+        // Es obligatoria y debe tener exactamente 11 caracteres.
         [Required]
         [StringLength(11, MinimumLength = 11, ErrorMessage = "El CUIT debe tener exactamente 11 dígitos.")]
         public string CUIT { get; set; }
 
+        // El atributo Display cambia el texto mostrado en formularios a "Razón Social".
         [Display(Name = "Razón Social")]
+        [Required(ErrorMessage = "La razón social es obligatoria.")]
         public string RazonSocial { get; set; }
+        // Es obligatoria y solo puede contener números (sin letras ni símbolos).
         [Required]
         [RegularExpression(@"^\d+$", ErrorMessage = "Ingrese solo números.")]
         public string Telefono { get; set; }
+        [Required]
         [StringLength(200, ErrorMessage = "La dirección no puede exceder los 200 caracteres.")]
         public string Direccion { get; set; }
         public bool Activo { get; set; }

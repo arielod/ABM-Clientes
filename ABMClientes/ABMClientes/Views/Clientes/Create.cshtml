@@ -20,7 +20,7 @@
     @Html.AntiForgeryToken()
 
     <div class="form-horizontal">
-        
+
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
@@ -86,18 +86,18 @@
             $('#CuitField').on('blur', function () {
                 var cuit = $(this).val();
 
-                // Verificamos si el CUIT tiene la longitud correcta antes de hacer la solicitud
-                if (cuit.length == 11) {
+                if (cuit.length === 11) {
                     $.ajax({
                         url: '@Url.Action("ObtenerRazonSocialPorCuit", "Clientes")',
                         data: { cuit: cuit },
                         type: 'GET',
                         success: function (response) {
-                            if (response.error) {
-                                alert(response.error);
+                            // Detectar respuesta "nombre"
+                            if (response === @Html.Raw("\"@nombre\"")) {
+                                alert("CUIT no encontrado o inválido.");
+                                $('#RazonSocialField').val(""); // Limpiar si había algo
                             } else {
-                                // Asignamos el valor de la razón social al campo correspondiente
-                                $('#RazonSocialField').val(response);
+                                $('#RazonSocialField').val(response); // Asignar la razón social válida
                             }
                         },
                         error: function () {
@@ -111,3 +111,4 @@
         });
     </script>
 }
+

@@ -7,6 +7,7 @@ using System.Net.Http;
 using System.Web;
 using System.Web.Mvc;
 
+
 namespace ABMClientes.Controllers
 {
     public class ClientesController : Controller
@@ -87,7 +88,7 @@ namespace ABMClientes.Controllers
             }
         }
 
-        // GET: Clientes/Delete/5
+        // GET: Clientes/Delete/5   
         public ActionResult Delete(int id)
         {
             using (DbModel context = new DbModel())
