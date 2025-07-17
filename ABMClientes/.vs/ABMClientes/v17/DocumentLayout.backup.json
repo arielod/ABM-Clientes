@@ -3,44 +3,44 @@
   "WorkspaceRootPath": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\dbmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.tt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\dbmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|d:\\users\\ariel\\desktop\\trabajo\\abmclientes\\abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\dbmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|solutionrelative:abmclientes\\models\\dbmodel.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2F1765C7-7369-43E0-A7E9-5710E81B4E61}|ABMClientes\\ABMClientes.csproj|D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\abmclientes\\models\\dbmodel.context.tt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,20 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ABMClientes\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ABMClientes\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T15:08:48.949Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ABMClientes\\Views\\_ViewStart.cshtml",
@@ -99,8 +86,7 @@
               "RelativeToolTip": "ABMClientes\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-11T15:08:27.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T15:08:27.519Z"
             },
             {
               "$type": "Document",
@@ -110,14 +96,14 @@
               "RelativeDocumentMoniker": "ABMClientes\\Controllers\\ClientesController.cs",
               "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "ABMClientes\\Controllers\\ClientesController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAAwH8AAAB4AAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T15:04:28.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "DbModel.tt",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.tt",
               "RelativeDocumentMoniker": "ABMClientes\\Models\\DbModel.tt",
@@ -130,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Index.cshtml",
@@ -138,25 +124,24 @@
               "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T15:29:18.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:29:18.23Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Create.cshtml",
               "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Create.cshtml",
               "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAwHAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-07T15:38:18.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DbModel.edmx [Diagram1]",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.edmx",
               "RelativeDocumentMoniker": "ABMClientes\\Models\\DbModel.edmx",
@@ -168,16 +153,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Clientes.cs",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\Clientes.cs",
               "RelativeDocumentMoniker": "ABMClientes\\Models\\Clientes.cs",
               "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\Clientes.cs",
               "RelativeToolTip": "ABMClientes\\Models\\Clientes.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBsAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T13:45:31.927Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ABMClientes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ABMClientes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T15:08:48.949Z"
             },
             {
               "$type": "Document",
@@ -205,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Views\\Clientes\\Edit.cshtml",
               "RelativeDocumentMoniker": "ABMClientes\\Views\\Clientes\\Edit.cshtml",
@@ -213,12 +210,11 @@
               "RelativeToolTip": "ABMClientes\\Views\\Clientes\\Edit.cshtml",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAAF4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-07T15:38:52.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T15:38:52.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DbModel.Designer.cs",
               "DocumentMoniker": "D:\\Users\\Ariel\\Desktop\\Trabajo\\ABMClientes\\ABMClientes\\Models\\DbModel.Designer.cs",
               "RelativeDocumentMoniker": "ABMClientes\\Models\\DbModel.Designer.cs",
@@ -226,8 +222,7 @@
               "RelativeToolTip": "ABMClientes\\Models\\DbModel.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T18:46:31.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T18:46:31.122Z"
             },
             {
               "$type": "Document",

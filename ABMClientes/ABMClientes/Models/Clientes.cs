@@ -21,11 +21,12 @@ namespace ABMClientes.Models
         // Es obligatoria y debe tener exactamente 11 caracteres.
         [Required]
         [StringLength(11, MinimumLength = 11, ErrorMessage = "El CUIT debe tener exactamente 11 dígitos.")]
+        [RegularExpression(@"^\d+$", ErrorMessage = "Ingrese solo números.")]
         public string CUIT { get; set; }
 
         // El atributo Display cambia el texto mostrado en formularios a "Razón Social".
         [Display(Name = "Razón Social")]
-        [Required(ErrorMessage = "La razón social es obligatoria.")]
+        [Required(ErrorMessage = "Ingese un CUIT valido.")]
         public string RazonSocial { get; set; }
         // Es obligatoria y solo puede contener números (sin letras ni símbolos).
         [Required]
